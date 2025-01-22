@@ -6,7 +6,7 @@
 This is a curated list of AI tools and resources, organized by category, to enhance productivity and creativity. Each entry includes a brief description of the tool's primary function.
 
 **Core AI Tools**
-
+*   [Virtual Try-On](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - *AI based clothing apparel*
 *   [NotebookLM](https://notebooklm.google/) - *AI-powered notebook for research, summarization, and idea generation.*
 *   [PromptPal](https://www.promptpal.net/) - *AI prompt management and creation tool for better AI outputs.*
 *   [MeetAugust.ai](https://www.meetaugust.ai/) - *AI meeting assistant for recording, transcribing, and summarizing discussions.* (8738030604)
